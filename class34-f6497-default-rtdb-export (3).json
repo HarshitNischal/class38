@@ -1,0 +1,22 @@
+{
+  "gameState" : 1,
+  "playerCount" : 4,
+  "players" : {
+    "player1" : {
+      "distance" : 1400,
+      "name" : "name"
+    },
+    "player2" : {
+      "distance" : 1300,
+      "name" : "goku"
+    },
+    "player3" : {
+      "distance" : 1400,
+      "name" : "op"
+    },
+    "player4" : {
+      "distance" : 1350,
+      "name" : "jbi"
+    }
+  }
+}
